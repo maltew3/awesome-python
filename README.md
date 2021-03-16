@@ -2,6 +2,8 @@
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
+Bitte sende eine Email an: lieblings_kollege@firma.com
+
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
